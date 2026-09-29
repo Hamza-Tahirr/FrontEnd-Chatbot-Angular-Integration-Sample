@@ -9,7 +9,6 @@ import { NbThemeModule, NbLayoutModule, NbChatModule, NbSpinnerModule } from '@n
 import { NbEvaIconsModule } from '@nebular/eva-icons';
 import { ChatbotComponent } from './chatbot/chatbot.component';
 
-
 @NgModule({
   declarations: [
     AppComponent,
